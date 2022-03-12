@@ -109,3 +109,4 @@ ${scoreString.join("\n")}
 };
 myDeck.dealCards(myDeck.cardsDeck);
 playCards(player1, player2);
+
